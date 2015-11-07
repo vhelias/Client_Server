@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="ScreenshooterSample/ScreenshooterSample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.ec1f672f" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="../../../../test_layout/MainActivity.cs" Line="150" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ScreenshooterSample" expanded="True">
+            <Node name="ScreenshooterSample" expanded="True" selected="True" />
+          </Node>
+          <Node name="test_layout" expanded="True">
+            <Node name="test_layout" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="Screenshooter" is-shell="true">
+  <name>Screenshooter for Xamarin.Android</name>
+  <publisher>Xamarin Inc</publisher>
+  <publisher-url>http://xamarin.com/</publisher-url>
+  <version>1.0.0</version>
+  <summary>The simplest way to take a screenshot of any view in your app.</summary>
+  <packages>
+    <package id="Screenshooter" version="1.0.0" framework="android" />
+  </packages>
+  <samples>
+    <sample id="ScreenshooterSample">
+      <name>Android Sample</name>
+      <summary>Android Sample</summary>
+    </sample>
+  </samples>
+</component>

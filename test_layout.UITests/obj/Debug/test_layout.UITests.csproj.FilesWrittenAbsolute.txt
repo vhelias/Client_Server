@@ -1,0 +1,7 @@
+/Users/Victor/Projects/TranslatorPro/test_layout.UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Victor/Projects/TranslatorPro/test_layout.UITests/bin/Debug/test_layout.UITests.dll.mdb
+/Users/Victor/Projects/TranslatorPro/test_layout.UITests/bin/Debug/test_layout.UITests.dll
+/Users/Victor/Projects/TranslatorPro/test_layout.UITests/obj/Debug/test_layout.UITests.dll
+/Users/Victor/Projects/TranslatorPro/test_layout.UITests/obj/Debug/test_layout.UITests.dll.mdb
+/Users/Victor/Projects/TranslatorPro/test_layout.UITests/bin/Debug/nunit.framework.dll
+/Users/Victor/Projects/TranslatorPro/test_layout.UITests/bin/Debug/Xamarin.UITest.dll

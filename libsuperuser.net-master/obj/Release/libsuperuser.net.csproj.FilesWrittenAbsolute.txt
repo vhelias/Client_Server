@@ -1,0 +1,12 @@
+/Users/Victor/Desktop/libsuperuser.net-master/obj/Release/MonoAndroid,Version=v4.0.3.AssemblyAttribute.cs
+/Users/Victor/Desktop/libsuperuser.net-master/obj/Release/libsuperuser_net.obj.Release.__AndroidLibraryProjects__.zip
+/Users/Victor/Desktop/libsuperuser.net-master/bin/Release/libsuperuser.net.dll.mdb
+/Users/Victor/Desktop/libsuperuser.net-master/bin/Release/libsuperuser.net.dll
+/Users/Victor/Desktop/libsuperuser.net-master/bin/Release/libsuperuser.net.apk
+/Users/Victor/Desktop/libsuperuser.net-master/obj/Release/android/bin/libsuperuser.net.apk
+/Users/Victor/Desktop/libsuperuser.net-master/obj/Release/res/values/strings.xml
+/Users/Victor/Desktop/libsuperuser.net-master/obj/Release/R.cs.flag
+/Users/Victor/Desktop/libsuperuser.net-master/bin/Release/libsuperuser.net-Signed.apk
+/Users/Victor/Desktop/libsuperuser.net-master/obj/Release/uploadflags.txt
+/Users/Victor/Desktop/libsuperuser.net-master/obj/Release/libsuperuser.net.dll
+/Users/Victor/Desktop/libsuperuser.net-master/obj/Release/libsuperuser.net.dll.mdb

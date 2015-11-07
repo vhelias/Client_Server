@@ -1,0 +1,120 @@
+TranslatorPro.MainActivity, test_layout;md5e5eb7dc07ce0b1302b7d1e4f6eb0af88.MainActivity
+TranslatorPro.MainActivity, test_layout, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e5eb7dc07ce0b1302b7d1e4f6eb0af88.MainActivity
+TranslatorPro.MainActivity;md5e5eb7dc07ce0b1302b7d1e4f6eb0af88.MainActivity
+translatorpro.MainActivity;md5e5eb7dc07ce0b1302b7d1e4f6eb0af88.MainActivity
+Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v13;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v13, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager.IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+android.support.v4.app.FragmentManager_IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.Content.Loader/IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v13;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Content.Loader/IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v13, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Content.Loader.IOnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+android.support.v4.content.Loader_IOnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.v13;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.v13, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+android.support.v4.view.ActionProvider_ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/IVisibilityListenerImplementor, Xamarin.Android.Support.v13;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/IVisibilityListenerImplementor, Xamarin.Android.Support.v13, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.IVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+android.support.v4.view.ActionProvider_IVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.v13;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.v13, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+android.support.v4.view.IViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.MenuItemCompat/IOnActionExpandListenerImplementor, Xamarin.Android.Support.v13;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.MenuItemCompat/IOnActionExpandListenerImplementor, Xamarin.Android.Support.v13, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.MenuItemCompat.IOnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+android.support.v4.view.MenuItemCompat_IOnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v13;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v13, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.View.ViewPager.IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+android.support.v4.view.ViewPager_IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.Widget.DrawerLayout/IDrawerListenerImplementor, Xamarin.Android.Support.v13;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout/IDrawerListenerImplementor, Xamarin.Android.Support.v13, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout.IDrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+android.support.v4.widget.DrawerLayout_IDrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout/IPanelSlideListenerImplementor, Xamarin.Android.Support.v13;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout/IPanelSlideListenerImplementor, Xamarin.Android.Support.v13, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout.IPanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+android.support.v4.widget.SlidingPaneLayout_IPanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xamarin.Android.Support.v13;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xamarin.Android.Support.v13, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout.IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+android.support.v4.widget.SwipeRefreshLayout_IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V7.App.ActionBar/IOnMenuVisibilityListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor
+Android.Support.V7.App.ActionBar/IOnMenuVisibilityListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor
+Android.Support.V7.App.ActionBar.IOnMenuVisibilityListenerImplementor;mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor
+android.support.v7.app.ActionBar_IOnMenuVisibilityListenerImplementor;mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor
+Android.Support.V7.App.ActionBar/IOnNavigationListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.app.ActionBar_OnNavigationListenerImplementor
+Android.Support.V7.App.ActionBar/IOnNavigationListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.app.ActionBar_OnNavigationListenerImplementor
+Android.Support.V7.App.ActionBar.IOnNavigationListenerImplementor;mono.android.support.v7.app.ActionBar_OnNavigationListenerImplementor
+android.support.v7.app.ActionBar_IOnNavigationListenerImplementor;mono.android.support.v7.app.ActionBar_OnNavigationListenerImplementor
+Android.Support.V7.App.ActionBar/ITabListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.app.ActionBar_TabListenerImplementor
+Android.Support.V7.App.ActionBar/ITabListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.app.ActionBar_TabListenerImplementor
+Android.Support.V7.App.ActionBar.ITabListenerImplementor;mono.android.support.v7.app.ActionBar_TabListenerImplementor
+android.support.v7.app.ActionBar_ITabListenerImplementor;mono.android.support.v7.app.ActionBar_TabListenerImplementor
+Android.Support.V7.Widget.PopupMenu/IOnDismissListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.PopupMenu_OnDismissListenerImplementor
+Android.Support.V7.Widget.PopupMenu/IOnDismissListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.PopupMenu_OnDismissListenerImplementor
+Android.Support.V7.Widget.PopupMenu.IOnDismissListenerImplementor;mono.android.support.v7.widget.PopupMenu_OnDismissListenerImplementor
+android.support.v7.widget.PopupMenu_IOnDismissListenerImplementor;mono.android.support.v7.widget.PopupMenu_OnDismissListenerImplementor
+Android.Support.V7.Widget.PopupMenu/IOnMenuItemClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.PopupMenu_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.PopupMenu/IOnMenuItemClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.PopupMenu_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.PopupMenu.IOnMenuItemClickListenerImplementor;mono.android.support.v7.widget.PopupMenu_OnMenuItemClickListenerImplementor
+android.support.v7.widget.PopupMenu_IOnMenuItemClickListenerImplementor;mono.android.support.v7.widget.PopupMenu_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.SearchView/IOnCloseListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.SearchView_OnCloseListenerImplementor
+Android.Support.V7.Widget.SearchView/IOnCloseListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.SearchView_OnCloseListenerImplementor
+Android.Support.V7.Widget.SearchView.IOnCloseListenerImplementor;mono.android.support.v7.widget.SearchView_OnCloseListenerImplementor
+android.support.v7.widget.SearchView_IOnCloseListenerImplementor;mono.android.support.v7.widget.SearchView_OnCloseListenerImplementor
+Android.Support.V7.Widget.SearchView/IOnQueryTextListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.SearchView_OnQueryTextListenerImplementor
+Android.Support.V7.Widget.SearchView/IOnQueryTextListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.SearchView_OnQueryTextListenerImplementor
+Android.Support.V7.Widget.SearchView.IOnQueryTextListenerImplementor;mono.android.support.v7.widget.SearchView_OnQueryTextListenerImplementor
+android.support.v7.widget.SearchView_IOnQueryTextListenerImplementor;mono.android.support.v7.widget.SearchView_OnQueryTextListenerImplementor
+Android.Support.V7.Widget.SearchView/IOnSuggestionListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.SearchView_OnSuggestionListenerImplementor
+Android.Support.V7.Widget.SearchView/IOnSuggestionListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.SearchView_OnSuggestionListenerImplementor
+Android.Support.V7.Widget.SearchView.IOnSuggestionListenerImplementor;mono.android.support.v7.widget.SearchView_OnSuggestionListenerImplementor
+android.support.v7.widget.SearchView_IOnSuggestionListenerImplementor;mono.android.support.v7.widget.SearchView_OnSuggestionListenerImplementor
+Android.Support.V7.Widget.ShareActionProvider/IOnShareTargetSelectedListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.ShareActionProvider_OnShareTargetSelectedListenerImplementor
+Android.Support.V7.Widget.ShareActionProvider/IOnShareTargetSelectedListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.ShareActionProvider_OnShareTargetSelectedListenerImplementor
+Android.Support.V7.Widget.ShareActionProvider.IOnShareTargetSelectedListenerImplementor;mono.android.support.v7.widget.ShareActionProvider_OnShareTargetSelectedListenerImplementor
+android.support.v7.widget.ShareActionProvider_IOnShareTargetSelectedListenerImplementor;mono.android.support.v7.widget.ShareActionProvider_OnShareTargetSelectedListenerImplementor
+com.northstar.core, com.northstar;md55a05def10ad178c7b6d4d61352f47736.core
+com.northstar.core, com.northstar, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md55a05def10ad178c7b6d4d61352f47736.core
+com.northstar.core;md55a05def10ad178c7b6d4d61352f47736.core
+com.northstar.core;md55a05def10ad178c7b6d4d61352f47736.core
+libsuperuser_net.Application, libsuperuser.net;md502e9c1a7da7584ec7fdc26d6ad58c533.Application
+libsuperuser_net.Application, libsuperuser.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md502e9c1a7da7584ec7fdc26d6ad58c533.Application
+libsuperuser_net.Application;md502e9c1a7da7584ec7fdc26d6ad58c533.Application
+libsuperuser_net.Application;md502e9c1a7da7584ec7fdc26d6ad58c533.Application
+libsuperuser_net.HideOverlaysReceiver, libsuperuser.net;md502e9c1a7da7584ec7fdc26d6ad58c533.HideOverlaysReceiver
+libsuperuser_net.HideOverlaysReceiver, libsuperuser.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md502e9c1a7da7584ec7fdc26d6ad58c533.HideOverlaysReceiver
+libsuperuser_net.HideOverlaysReceiver;md502e9c1a7da7584ec7fdc26d6ad58c533.HideOverlaysReceiver
+libsuperuser_net.HideOverlaysReceiver;md502e9c1a7da7584ec7fdc26d6ad58c533.HideOverlaysReceiver
+libsuperuser_net.StreamGobbler, libsuperuser.net;md502e9c1a7da7584ec7fdc26d6ad58c533.StreamGobbler
+libsuperuser_net.StreamGobbler, libsuperuser.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md502e9c1a7da7584ec7fdc26d6ad58c533.StreamGobbler
+libsuperuser_net.StreamGobbler;md502e9c1a7da7584ec7fdc26d6ad58c533.StreamGobbler
+libsuperuser_net.StreamGobbler;md502e9c1a7da7584ec7fdc26d6ad58c533.StreamGobbler
+Xamarin.Android.NUnitLite.TestSuiteActivity, Xamarin.Android.NUnitLite;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteActivity
+Xamarin.Android.NUnitLite.TestSuiteActivity, Xamarin.Android.NUnitLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteActivity
+Xamarin.Android.NUnitLite.TestSuiteActivity;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteActivity
+xamarin.android.nunitlite.TestSuiteActivity;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteActivity
+Xamarin.Android.NUnitLite.TestSuiteActivity/TestDataAdapter, Xamarin.Android.NUnitLite;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteActivity_TestDataAdapter
+Xamarin.Android.NUnitLite.TestSuiteActivity/TestDataAdapter, Xamarin.Android.NUnitLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteActivity_TestDataAdapter
+Xamarin.Android.NUnitLite.TestSuiteActivity.TestDataAdapter;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteActivity_TestDataAdapter
+xamarin.android.nunitlite.TestSuiteActivity_TestDataAdapter;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteActivity_TestDataAdapter
+Xamarin.Android.NUnitLite.TestSuiteActivity/TestData, Xamarin.Android.NUnitLite;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteActivity_TestData
+Xamarin.Android.NUnitLite.TestSuiteActivity/TestData, Xamarin.Android.NUnitLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteActivity_TestData
+Xamarin.Android.NUnitLite.TestSuiteActivity.TestData;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteActivity_TestData
+xamarin.android.nunitlite.TestSuiteActivity_TestData;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteActivity_TestData
+Xamarin.Android.NUnitLite.TestSuiteInstrumentation, Xamarin.Android.NUnitLite;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteInstrumentation
+Xamarin.Android.NUnitLite.TestSuiteInstrumentation, Xamarin.Android.NUnitLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteInstrumentation
+Xamarin.Android.NUnitLite.TestSuiteInstrumentation;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteInstrumentation
+xamarin.android.nunitlite.TestSuiteInstrumentation;md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteInstrumentation
+Xamarin.Android.NUnitLite.TestResultActivity, Xamarin.Android.NUnitLite;md5e0d9a58f8ef4c80c20dd923cca887f60.TestResultActivity
+Xamarin.Android.NUnitLite.TestResultActivity, Xamarin.Android.NUnitLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065;md5e0d9a58f8ef4c80c20dd923cca887f60.TestResultActivity
+Xamarin.Android.NUnitLite.TestResultActivity;md5e0d9a58f8ef4c80c20dd923cca887f60.TestResultActivity
+xamarin.android.nunitlite.TestResultActivity;md5e0d9a58f8ef4c80c20dd923cca887f60.TestResultActivity
+Xamarin.Android.NUnitLite.OptionsActivity, Xamarin.Android.NUnitLite;md5e0d9a58f8ef4c80c20dd923cca887f60.OptionsActivity
+Xamarin.Android.NUnitLite.OptionsActivity, Xamarin.Android.NUnitLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065;md5e0d9a58f8ef4c80c20dd923cca887f60.OptionsActivity
+Xamarin.Android.NUnitLite.OptionsActivity;md5e0d9a58f8ef4c80c20dd923cca887f60.OptionsActivity
+xamarin.android.nunitlite.OptionsActivity;md5e0d9a58f8ef4c80c20dd923cca887f60.OptionsActivity

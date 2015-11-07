@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths>/Users/Victor/.local/share/Xamarin/Android.Support.v7.AppCompat/20.0.0/content/support/v7/appcompat</AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>/Users/Victor/.local/share/Xamarin/Android.Support.v13/20.0.0/content/support/v13/android-support-v13.jar;/Users/Victor/.local/share/Xamarin/Android.Support.v7.AppCompat/20.0.0/content/support/v7/appcompat/libs/android-support-v7-appcompat.jar</AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences></AdditionalNativeLibraryReferences>
+</Paths>
